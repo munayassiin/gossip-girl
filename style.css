@@ -1,0 +1,45 @@
+html { 
+    background: url(gg_b.jpg) no-repeat center fixed ; 
+    background-size: cover;
+   
+  }
+img{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 1000px;
+}
+.content{
+    border-radius: 15px;
+    background: white;
+    color: black;
+    padding: 20px; 
+    width: 450px;
+    height: 460px; 
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.side-content{
+   width: 25%;
+   margin-left: 100px;
+   margin-top: ;
+ 
+}
+.content h1{
+   text-align: center;
+
+}
+.content h2{
+    text-align: right;
+    color: rgb(36, 199, 199);
+}
+
+.side-content h1{
+    color: rgb(57, 132, 145);
+    
+}
+
+.side-content p{
+    color: white;
+}
